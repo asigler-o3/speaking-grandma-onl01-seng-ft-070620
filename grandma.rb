@@ -1,5 +1,5 @@
 # Write a speak_to_grandma method.
-speak_to_grandma = 
+speak_to_grandma =
 
 if speak_to_grandma == .downcase
   puts "HUH?! SPEAK UP, SONNY!"
