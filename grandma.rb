@@ -1,6 +1,4 @@
 # Write a speak_to_grandma method.
-speak_to_grandma =
-
 if speak_to_grandma == .downcase
   puts "HUH?! SPEAK UP, SONNY!"
 elsif speak_to_grandma == .upcase
