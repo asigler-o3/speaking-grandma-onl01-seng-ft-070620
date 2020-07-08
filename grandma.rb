@@ -1,5 +1,5 @@
 # Write a speak_to_grandma method.
-if downcase
+if .downcase
   puts "HUH?! SPEAK UP, SONNY!"
 elsif upcase
   puts "NO, NOT  SINCE 1938!"
